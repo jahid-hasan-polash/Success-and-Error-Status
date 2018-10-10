@@ -1,5 +1,5 @@
-<h1> Success and Error Status </h1>
-<p>
+<h1 align="center"> Success and Error Status </h1>
+<p align="center">
 <img src="https://img.shields.io/badge/Swift-4.0-orange.svg" alt="Swift 4.0"/>
 <img src="https://img.shields.io/badge/platform-iOS-brightgreen.svg" alt="Platform: iOS"/>
 <img src="https://img.shields.io/badge/Xcode-9%2B-brightgreen.svg" alt="XCode 9+"/>
